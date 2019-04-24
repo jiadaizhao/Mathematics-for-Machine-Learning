@@ -2,3 +2,4 @@
 *.pkz
 *.pyc
 *.mat
+*.npy
